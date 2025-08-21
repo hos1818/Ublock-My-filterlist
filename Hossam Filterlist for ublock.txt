@@ -1,0 +1,34 @@
+! Title: Hossam Filterlist for ublock
+! Expires: 7 days (update frequency)
+! Version: 1
+! Last modified: 21 Aug 2025
+! License: https://mit-license.org/
+! Description: This is my filterlist
+!-------------------------------------------------------------------------------
+
+*##+js(acis, clear_body_at_all_for_extentions)
+*##+js(acis, disable_ext_code)
+*##+js(acis, remove_ext_code)
+*##+js(acis, call_disable_copy_WithDelay)
+*##+js(acis, disable_copy)
+*##+js(acis, disable_copy_ie)
+*##+js(acis, disable_drag_text)
+*##+js(acis, touchstart)
+*##+js(acis, touchend)
+*##+js(acis, wccp_pro_is_passive)
+*##+js(acis, reEnable)
+*##+js(acis, wccp_pro_iscontenteditable)
+*##+js(acis, wccp_pro_clear_any_selection)
+*##+js(acis, disable_hot_keys)
+*##+js(acis, devtools_isOpen)
+*##+js(acis, clear_body_at_all)
+*##+js(acis, nocontext)
+*##+js(acis, disable_drag_images)
+*##+js(acis, wccp_pro_msieversion)
+*##+js(acis, copyToClipboard)
+*##+js(acis, wccp_pro_log_to_console_if_allowed)
+*##+js(acis, fallbackCopyTextToClipboard)
+*##+js(acis, copyTextToClipboard)
+*##+js(acis, getSelectionTextAndContainerElement)
+*##+js(acis, getSelectionParentElement)
+*##+js(acis, apply_class_exclusion)
