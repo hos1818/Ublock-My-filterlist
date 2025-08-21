@@ -1,4 +1,4 @@
-! Title: Hossam Filterlist for ublock
+! Title: MY ultimate Filterlist for ublock
 ! Expires: 7 days (update frequency)
 ! Version: 1
 ! Last modified: 21 Aug 2025
