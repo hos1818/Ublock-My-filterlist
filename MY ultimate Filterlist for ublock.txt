@@ -36,3 +36,13 @@
 *##+js(acis, wccp_free_iscontenteditable)
 *##+js(acis, disableSelection)
 
+!--------------------------------cenele.com--------------------------------------
+
+cenele.com##.adblock_title
+cenele.com##h4:has-text(عطل مانع إعلانات)
+cenele.com##div:has-text(من فضلك عطّل مانِع الإعلانات)
+cenele.com##a:has-text(أغلق)
+cenele.com##a:has-text(ريفريش)
+cenele.com##div:has(img[src*="chp-ads-block-detector"])
+
+!--------------------------------------------------------------------------------
