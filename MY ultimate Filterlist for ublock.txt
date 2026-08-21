@@ -35,7 +35,7 @@
 *##+js(acis, disableEnterKey)
 *##+js(acis, wccp_free_iscontenteditable)
 *##+js(acis, disableSelection)
-*##+js(acis, buildOverlay)
+*##+js(acis, isSuspicious)
 
 !--------------------------------cenele.com--------------------------------------
 
