@@ -36,6 +36,8 @@
 *##+js(acis, wccp_free_iscontenteditable)
 *##+js(acis, disableSelection)
 *##+js(acis, isSuspicious)
+*##+js(acis, runDetection)
+
 
 !--------------------------------cenele.com--------------------------------------
 
